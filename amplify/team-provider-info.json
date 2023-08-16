@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-kineteco-dev-112040-authRole",
+      "UnauthRoleArn": "arn:aws:iam::113583154611:role/amplify-kineteco-dev-112040-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::113583154611:role/amplify-kineteco-dev-112040-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-kineteco-dev-112040-deployment",
+      "UnauthRoleName": "amplify-kineteco-dev-112040-unauthRole",
+      "StackName": "amplify-kineteco-dev-112040",
+      "StackId": "arn:aws:cloudformation:us-east-1:113583154611:stack/amplify-kineteco-dev-112040/7700ff50-3c48-11ee-af0f-0e26f9e7020d",
+      "AmplifyAppId": "d2se4zr2jlaufy"
+    }
+  }
+}
