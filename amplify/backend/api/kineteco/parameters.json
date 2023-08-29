@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "kineteco",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authkinetecof728c2c5",
+      "Outputs.UserPoolId"
+    ]
+  }
+}
